@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcul de statistiques</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Calcul de statistiques</h1>
+        <div class="form-group">
+            <label for="values">Entrez les valeurs (séparées par des virgules) :</label>
+            <input type="text" id="values" placeholder="Entrez les valeurs">
+        </div>
+        <div class="form-group">
+            <label for="days">Entrez le nombre de jours :</label>
+            <input type="number" id="days" placeholder="Entrez le nombre de jours">
+        </div>
+        <button onclick="calculateStats()">Calculer</button>
+        <div class="chart-container">
+            <canvas id="myChart"></canvas>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
