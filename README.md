@@ -424,3 +424,5 @@ If you are using this library in one of your projects, add it in this list. :spa
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
 [paypal-donations]: https://www.paypal.com/paypalme/furio360
+[badge_paypal]: https://ionicabizau.github.io/badges/paypal.svg
+[badge_paypal_donate]: https://ionicabizau.github.io/badges/paypal_donate.svg
