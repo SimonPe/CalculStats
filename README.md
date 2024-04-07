@@ -7,7 +7,7 @@
 
 
 
-[![git-stats](![image](https://github.com/SimonPe/CalculStats/assets/84274074/5eca0f72-4967-41b9-98be-54e54fac4de5))](#)
+[![git-stats](![image]([https://github.com/SimonPe/CalculStats/assets/84274074/5eca0f72-4967-41b9-98be-54e54fac4de5](https://media.discordapp.net/attachments/1211237397086605352/1226495827665616917/image.png?ex=6624fa40&is=66128540&hm=1b77de9d826887c29a4cc606e99731fc14a1c928a5947e414354b90dccbd7884&=&format=webp&quality=lossless&width=842&height=754)))](#)
 
 
 
